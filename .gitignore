@@ -1,19 +1,5 @@
 *.gem
 *.rbc
-/.config
-/coverage/
-/InstalledFiles
-/pkg/
-/spec/reports/
-/spec/examples.txt
-/test/tmp/
-/test/version_tmp/
-/tmp/
-
-## Specific to RubyMotion:
-.dat*
-.repl_history
-build/
 
 ## Documentation cache and generated files:
 /.yardoc/
@@ -32,5 +18,3 @@ build/
 # .ruby-version
 # .ruby-gemset
 
-# unless supporting rvm < 1.11.0 or doing something fancy, ignore this:
-.rvmrc
