@@ -7,3 +7,9 @@ Write a binary chop method that takes an integer search target and a sorted arra
 `chop(int, array_of_int)  -> int`
  
 You can assume that the array has less than 100,000 elements. For the purposes of this Kata, time and memory performance are not issues (assuming the chop terminates before you get bored and kill it, and that you have enough RAM to run it).
+## Day 1 Notes
+1. The first batch of test ran into infinit loop on `assert_equal(-1, chop(2, [1, 3, 5]))`
+The fix required testing if the current index pointer was already a limit. This only occurs if searching
+for values that are not in the array, which was not what I was focussed on. 
+
+
