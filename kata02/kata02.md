@@ -25,9 +25,9 @@ The fix required testing if the current index pointer was already a limit. This 
 for values that are not in the array, which was not what I was focussed on. 
 
 ## Day 2 notes (3/13/2016)
-1. This version was the simplest recursive version of the algorith written on 
+1. This version was the simplest recursive version of the algorithm written on 
 Day 1. If you compare the 2 versions you will notice that the exit conditions
-are identical. The Day 1 and Day 2 represent the extent of what algorithms 
+are identical. The Day 1 and Day 2 programs represent the extent of what algorithms 
 I would normally consider for solving the problem. The next 3 versions will be
 more difficult to come up with.
 
