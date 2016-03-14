@@ -19,12 +19,12 @@ of this Kata, time and memory performance are not issues (assuming the chop
 terminates before you get bored and kill it, and that you have enough RAM to 
 run it).
 
-## Day 1 Notes
+## Day 1 Notes (3/12/2016)
 1. The first batch of test ran into infinit loop on `assert_equal(-1, chop(2, [1, 3, 5]))`
 The fix required testing if the current index pointer was already a limit. This only occurs if searching
 for values that are not in the array, which was not what I was focussed on. 
 
-## Day 2 notes
+## Day 2 notes (3/13/2016)
 1. This version was the simplest recursive version of the algorith written on 
 Day 1. If you compare the 2 versions you will notice that the exit conditions
 are identical. The Day 1 and Day 2 represent the extent of what algorithms 
