@@ -12,7 +12,7 @@ Write a binary chop method that takes an integer search target and a sorted
 array of integers. It should return the integer index of the target in the array, 
 or -1 if the target is not in the array. The signature will logically be:
 
-`chop(int, array_of_int)  -> int`
+`chop(int, array_of_int) -> int`
  
 You can assume that the array has less than 100,000 elements. For the purposes 
 of this Kata, time and memory performance are not issues (assuming the chop 
@@ -30,4 +30,10 @@ Day 1. If you compare the 2 versions you will notice that the exit conditions
 are identical. The Day 1 and Day 2 programs represent the extent of what algorithms 
 I would normally consider for solving the problem. The next 3 versions will be
 more difficult to come up with.
+
+## Day 3 Notes (3/20/2016)
+1. A refinement of the Day 1 chop. Slightly more efficient loop structure using
+the `until` modifier, so it is possible to exit the loop on a single comparison.
+Again, my feeling on this day is this is perhaps the best I can do on this 
+problem. 
 
