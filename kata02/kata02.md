@@ -37,3 +37,6 @@ the `until` modifier, so it is possible to exit the loop on a single comparison.
 Again, my feeling on this day is this is perhaps the best I can do on this 
 problem. 
 
+## Day 4 Notes (4/04/2016)
+1. A refinement of the Day 2 chop. A slightly easier to read recursive binary
+search function, and a much better looking chop method. 
