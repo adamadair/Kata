@@ -42,5 +42,5 @@ problem.
 search function, and a much better looking chop method. 
 
 ## Day 5 Notes (4/13/2016)
-1. My snallest and most efficient chop to date. I took over a month to complete
+1. My smallest and most efficient chop to date. I took over a month to complete
 what was supposed to take 5 days, but I think that I am actually better for it.
