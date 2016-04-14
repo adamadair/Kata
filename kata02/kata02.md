@@ -40,3 +40,7 @@ problem.
 ## Day 4 Notes (4/04/2016)
 1. A refinement of the Day 2 chop. A slightly easier to read recursive binary
 search function, and a much better looking chop method. 
+
+## Day 5 Notes (4/13/2016)
+1. My snallest and most efficient chop to date. I took over a month to complete
+what was supposed to take 5 days, but I think that I am actually better for it.
